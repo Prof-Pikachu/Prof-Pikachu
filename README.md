@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Prof-Pikachu
+- 👀 I’m interested in Cybersecurity and Ethical Hacking
+- 🌱 I’m currently learning networking
